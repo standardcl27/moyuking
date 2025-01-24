@@ -7,7 +7,7 @@
 I am a Robotics Master's student at the University of Pennsylvania (GPA: 4.00/4.00) with strong expertise in Java, Python, and full-stack development. I have hands-on experience designing scalable backend systems, building microservices platforms, and implementing machine learning models. Passionate about solving real-world problems, I enjoy creating impactful, interesting product.
 
 #### Email
-jinjie@seas.upenn.edu
+longqi@seas.upenn.edu
 
 #### Education
 M.S.E., Robotics, University of Pennsylvania, 2023—2025 (expected).  
